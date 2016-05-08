@@ -1,4 +1,5 @@
 Advanced MongoDB Ruby Driver
+
 • Implement a model class and a set of supporting classes to represent a complex type for a collection.
 
 • Implement standard queries
