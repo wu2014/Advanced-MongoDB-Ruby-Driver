@@ -1,9 +1,16 @@
 Advanced MongoDB Ruby Driver
 • Implement a model class and a set of supporting classes to represent a complex type for a collection.
+
 • Implement standard queries
+
 • Implement aggregation pipeline queries
+
 • Create an index and implement geolocation queries
+
 • Implement GridFS file storage and retrieval
+
 • Implement and navigate a relationship from a model class
+
 • Demonstrate the data tier’s ability to serve content to the web
+
 • Demonstrate the data tier’s ability to leverage relationships between collections to the web.
